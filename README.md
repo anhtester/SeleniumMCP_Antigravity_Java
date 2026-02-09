@@ -1,9 +1,12 @@
-# 🎭 Selenium Java build by Antigravity AI - Book Management
+# <img src="https://www.selenium.dev/favicons/favicon.ico" width="32"> Selenium Java build by Antigravity AI - Book Management 🚀
 
-![Java CI](https://github.com/anhtester/SeleniumMCP_Antigravity_Java/actions/workflows/maven.yml/badge.svg)
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Selenium](https://img.shields.io/badge/Selenium-4.x-green)
-![Allure](https://img.shields.io/badge/Allure-Report-yellow)
+<p align="center">
+  <img src="https://github.com/anhtester/SeleniumMCP_Antigravity_Java/actions/workflows/maven.yml/badge.svg" alt="Java CI">
+  <img src="https://img.shields.io/badge/Java-17-orange" alt="Java">
+  <img src="https://img.shields.io/badge/Selenium-4.x-green" alt="Selenium">
+  <img src="https://img.shields.io/badge/Allure-Report-yellow" alt="Allure">
+</p>
+
 
 Project này được xây dựng bằng **Selenium WebDriver v4** và **Java 17**, sử dụng mô hình **Page Object Model (POM)** kết hợp với **TestNG**. Dự án này được thiết kế để kiểm thử tự động hệ thống Quản lý sách (Book Management System).
 
@@ -95,4 +98,10 @@ Dự án đã được cấu hình GitHub Actions (`.github/workflows/maven.yml`
 4. **Report**: Lưu trữ báo cáo Allure dưới dạng Artifacts để tải về xem sau.
 
 ---
+
+## 👥 Author
+
+**Author: [Anh Tester](https://anhtester.com)**
+
 *Developed by Antigravity AI*
+
