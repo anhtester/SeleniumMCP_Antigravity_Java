@@ -99,9 +99,20 @@ Dự án đã được cấu hình GitHub Actions (`.github/workflows/maven.yml`
 
 ---
 
-## 👥 Author
+## 👥 Tác giả
 
-**Author: [Anh Tester](https://anhtester.com)**
+**Người dùng Prompt: [Anh Tester](https://anhtester.com)**
 
-*Developed by Antigravity AI*
+*Code by Antigravity AI*
 
+---
+
+## 🤝 Hỗ trợ
+
+Dự án được phát triển và tối ưu hóa với sự hỗ trợ từ **Antigravity AI**. Nếu bạn có bất kỳ thắc mắc nào, vui lòng liên hệ admin hoặc tạo Issue trên kho lưu trữ.
+
+---
+
+## 📄 Giấy phép
+
+Dự án này được phân phối dưới giấy phép **ISC**.
