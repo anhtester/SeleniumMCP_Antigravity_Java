@@ -109,7 +109,7 @@ Dự án đã được cấu hình GitHub Actions (`.github/workflows/maven.yml`
 
 ## 🤝 Hỗ trợ
 
-Dự án được phát triển và tối ưu hóa với sự hỗ trợ từ **Antigravity AI**. Nếu bạn có bất kỳ thắc mắc nào, vui lòng liên hệ admin hoặc tạo Issue trên kho lưu trữ.
+Dự án được phát triển và tối ưu hóa với sự hỗ trợ từ **Antigravity AI**. Nếu bạn có bất kỳ thắc mắc nào, vui lòng liên hệ **[Anh Tester](https://anhtester.com)** hoặc tạo **[Issue](https://github.com/anhtester/SeleniumMCP_Antigravity_Java/issues)** trên kho lưu trữ.
 
 ---
 
